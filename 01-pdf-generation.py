@@ -2,8 +2,9 @@ import os
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.units import cm
 from reportlab.pdfgen import canvas
-from reportlab.platypus import SimpleDocTemplate, Paragraph, Image, Spacer, PageBreak
-from reportlab.lib.styles import getSampleStyleSheet
+from reportlab.lib.styles import getSampleStyleSheet, ParagraphStyle
+from reportlab.platypus import Paragraph
+from reportlab.lib.enums import TA_LEFT, TA_CENTER, TA_RIGHT
 from PyPDF2 import PdfWriter, PdfReader
 
 
@@ -29,58 +30,61 @@ def add_content_to_pdf(input_pdf, output_pdf):
     # Create a temporary PDF for content
     content_pdf_path = "temp_content.pdf"
 
-    margin = 1*cm
-    doc = SimpleDocTemplate(
-        content_pdf_path,
-        pagesize=A4,
-        rightMargin=margin,
-        leftMargin=margin,
-        topMargin=margin,
-        bottomMargin=margin
-    )
+    # Create the canvas
+    c = canvas.Canvas(content_pdf_path, pagesize=A4)
+    width, height = A4
 
-    available_width = A4[0] - 2*margin
+    def add_text_at_position(text, left_margin, top_margin, style='Normal', align=TA_LEFT):
+        styles = getSampleStyleSheet()
+        base_style = styles[style]
 
-    styles = getSampleStyleSheet()
-    h2_style = styles['Heading2']
-    normal_style = styles['Normal']
+        # Calculate available width
+        available_width = width - left_margin - 1*cm  # 1 cm right margin
 
-    content = []
+        # Create a custom style based on the base style
+        custom_style = ParagraphStyle(
+            'CustomStyle',
+            parent=base_style,
+            alignment=align
+        )
+
+        # Create the paragraph
+        p = Paragraph(text, custom_style)
+
+        # Calculate the height of the paragraph
+        w, h = p.wrap(available_width, height)
+
+        # Draw the paragraph
+        p.drawOn(c, left_margin, height - top_margin - h)
 
     # Page 1 content
-    content.append(Paragraph("Page 1 Content", h2_style))
-
-    # Add the bigfive-opening image
-    img_path = os.path.join('img', 'bigfive-opening.jpg')
-    if os.path.exists(img_path):
-        img = Image(img_path, width=available_width,
-                    height=available_width/2)  # Assuming 2:1 aspect ratio
-        img.hAlign = 'CENTER'
-        content.append(img)
-
-    content.append(Spacer(1, 12))
-    content.append(Paragraph("Visual", h2_style))
-    content.append(Paragraph(
+    add_text_at_position("Page 1 Content", 4*cm, 10*cm, style='Heading2')
+    add_text_at_position(
         "Orang dengan preferensi modalitas visual cenderung memahami dan mengingat informasi "
         "lebih baik ketika disajikan dalam bentuk gambar, diagram, grafik, atau bentuk visual "
         "lainnya. Mereka mungkin merasa lebih mudah untuk belajar dari materi yang mencakup "
         "ilustrasi, peta konsep, atau presentasi yang kaya akan elemen visual. Mengingat dan "
         "memahami informasi melalui penglihatan membantu mereka mengasosiasikan ide-ide dan "
         "konsep dengan representasi visual yang kuat.",
-        normal_style
-    ))
+        4*cm, 12*cm
+    )
 
-    # Add a page break before page 2 content
-    content.append(PageBreak())
+    # Add the bigfive-opening image
+    img_path = os.path.join('img', 'bigfive-opening.jpg')
+    if os.path.exists(img_path):
+        img_width = width - 5*cm  # 4 cm left margin + 1 cm right margin
+        img_height = img_width / 2  # Assuming 2:1 aspect ratio
+        c.drawImage(img_path, 4*cm, height - 5*cm - img_height,
+                    width=img_width, height=img_height)
+
+    c.showPage()  # End of page 1
 
     # Page 2 content
-    content.append(Paragraph("Page 2 Content", h2_style))
-    content.append(Paragraph("Second Page", h2_style))
-    content.append(
-        Paragraph("This is the content of the second page.", normal_style))
+    add_text_at_position("Page 2 Content", 4*cm, 10*cm, style='Heading2')
+    add_text_at_position(
+        "This is the content of the second page.", 4*cm, 12*cm)
 
-    # Build the content PDF
-    doc.build(content)
+    c.save()
 
     # Merge background and content PDFs
     background_pdf = PdfReader(open(input_pdf, "rb"))
