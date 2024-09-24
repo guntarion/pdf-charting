@@ -108,3 +108,4 @@ venv.bak/
 
 # Pyre type checker
 .pyre/
+.aider*
