@@ -44,14 +44,23 @@ narasiOpennessToExperienceSedang = "Individu dengan skor sedang pada keterbukaan
 narasiOpennessToExperienceRendah = "Individu dengan skor rendah pada keterbukaan terhadap pengalaman cenderung lebih praktis dan berorientasi pada realitas. Mereka mungkin lebih nyaman dengan hal-hal yang familiar dan dapat diandalkan. Pendekatan mereka yang konsisten dan fokus pada hal-hal konkret dapat sangat bermanfaat dalam situasi yang membutuhkan stabilitas dan efisiensi dalam pelaksanaan tugas-tugas rutin."
 
 narasi_mi_pengantar = "Kecerdasan majemuk tidaklah dimaksudkan untuk berdiri sendiri, melainkan bekerja dalam sinergi dengan kecerdasan lainnya. Dalam kehidupan nyata, seseorang dapat mencapai prestasi yang optimal ketika berbagai tipe kecerdasan saling mendukung dan melengkapi. Setiap individu memiliki kekuatan unik dalam kecerdasan tertentu, namun untuk mencapai potensi diri yang maksimal, penting untuk mengoptimalkan dan mendayagunakan setidaknya tiga tipe kecerdasan terkuat yang dimiliki."
-narasi_mi_Musikal = "Kecerdasan Musikal adalah kemampuan seseorang dalam memahami, menciptakan, dan mengekspresikan ide atau perasaan melalui musik. Orang dengan kecerdasan ini memiliki kepekaan terhadap nada, ritme, melodi, dan harmoni. Mereka cenderung menikmati mendengarkan musik, bernyanyi, bermain alat musik, atau bahkan menciptakan komposisi musik. Kecerdasan musikal penting dalam profesi seperti musisi, komposer, penyanyi, dan pengajar musik."
-narasi_mi_Linguistik = "Kecerdasan Linguistik adalah kemampuan seseorang dalam menggunakan bahasa, baik lisan maupun tulisan, untuk mengekspresikan pikiran, ide, dan perasaan dengan jelas dan efektif. Individu dengan kecerdasan ini cenderung memiliki bakat dalam menulis, berbicara, dan memahami makna serta struktur kata-kata. Mereka sering kali menikmati membaca, menulis, bercerita, dan bermain dengan kata-kata. Kecerdasan linguistik sangat penting dalam komunikasi, sastra, jurnalistik, dan pendidikan."
-narasi_mi_Spasial = "Kecerdasan Spasial adalah kemampuan seseorang untuk berpikir dalam bentuk visual dan gambar, serta untuk memahami dan memanipulasi ruang secara mental. Individu sdengan kecerdasan spasial yang tinggi biasanya memiliki kemampuan untuk melihat dan memvisualisasikan objek dari berbagai sudut, memahami hubungan antara objek-objek tersebut dalam ruang, serta mengenali pola dan detail visual. Kecerdasan ini sering ditemukan pada arsitek, seniman, desainer, dan individu yang bekerja dengan elemen visual dan ruang."
-narasi_mi_Naturalis = "Kecerdasan Naturalis adalah kemampuan seseorang untuk mengenali, memahami, dan berinteraksi dengan alam dan lingkungan sekitar. Individu dengan kecerdasan ini memiliki ketertarikan yang mendalam terhadap flora, fauna, dan ekosistem, serta kemampuan untuk mengamati dan menganalisis pola-pola di alam. Mereka sering kali menunjukkan kepekaan terhadap isu-isu lingkungan dan memiliki kemampuan untuk bekerja dengan baik dalam lingkungan alam terbuka."
-narasi_mi_Interpersonal = "Kecerdasan Interpersonal adalah kemampuan seseorang untuk memahami, berempati, dan berinteraksi dengan orang lain secara efektif. Individu dengan kecerdasan ini memiliki kepekaan terhadap perasaan, motivasi, dan kebutuhan orang lain. Mereka biasanya pandai dalam membangun hubungan, bekerja sama dalam kelompok, dan memahami dinamika sosial. Kecerdasan interpersonal sangat penting dalam membina hubungan yang harmonis dan dalam situasi yang memerlukan komunikasi dan kolaborasi."
-narasi_mi_Intrapersonal = "Kecerdasan Intrapersonal adalah kemampuan seseorang untuk memahami diri sendiri secara mendalam, termasuk emosi, motivasi, nilai-nilai, dan kelemahan pribadi. Individu dengan kecerdasan ini cenderung memiliki kesadaran diri yang tinggi dan mampu merefleksikan pengalaman hidup mereka. Mereka pandai mengatur emosi, mengenali kebutuhan pribadi, dan membuat keputusan berdasarkan pemahaman yang baik tentang diri mereka sendiri. Kecerdasan intrapersonal sangat penting untuk pengembangan diri, kesejahteraan emosional, dan pengambilan keputusan yang bijaksana."
-narasi_mi_Kinestetik = "Kecerdasan Kinestetik adalah kemampuan seseorang untuk menggunakan tubuhnya dengan terampil dan efektif dalam berbagai aktivitas fisik, seperti olahraga, tarian, kerajinan tangan, dan keterampilan manual lainnya. Individu dengan kecerdasan kinestetik cenderung memiliki koordinasi tubuh yang baik, kontrol gerakan yang presisi, dan kesadaran yang tinggi terhadap postur serta gerak tubuh mereka. Mereka belajar dengan baik melalui pengalaman langsung dan sering mengekspresikan diri melalui gerakan fisik. Kecerdasan ini sangat penting dalam berbagai bidang, termasuk seni, olahraga, dan pekerjaan yang melibatkan keterampilan tangan."
-narasi_mi_Logika = "Kecerdasan Logika, juga dikenal sebagai kecerdasan logis-matematis, adalah kemampuan seseorang untuk berpikir secara logis, analitis, dan sistematis. Individu dengan kecerdasan ini cenderung unggul dalam memahami pola, menghitung angka, memecahkan masalah, dan menganalisis situasi secara rasional. Mereka menikmati tantangan intelektual seperti teka-teki, permainan strategi, dan pemecahan masalah yang membutuhkan pemikiran kritis. Kecerdasan logika sangat penting dalam bidang-bidang seperti matematika, sains, teknologi, dan pemrograman."
+narasi_mi_musikal = "Kecerdasan Musikal adalah kemampuan seseorang dalam memahami, menciptakan, dan mengekspresikan ide atau perasaan melalui musik. Orang dengan kecerdasan ini memiliki kepekaan terhadap nada, ritme, melodi, dan harmoni. Mereka cenderung menikmati mendengarkan musik, bernyanyi, bermain alat musik, atau bahkan menciptakan komposisi musik. Kecerdasan musikal penting dalam profesi seperti musisi, komposer, penyanyi, dan pengajar musik."
+narasi_mi_linguistik = "Kecerdasan Linguistik adalah kemampuan seseorang dalam menggunakan bahasa, baik lisan maupun tulisan, untuk mengekspresikan pikiran, ide, dan perasaan dengan jelas dan efektif. Individu dengan kecerdasan ini cenderung memiliki bakat dalam menulis, berbicara, dan memahami makna serta struktur kata-kata. Mereka sering kali menikmati membaca, menulis, bercerita, dan bermain dengan kata-kata. Kecerdasan linguistik sangat penting dalam komunikasi, sastra, jurnalistik, dan pendidikan."
+narasi_mi_spasial = "Kecerdasan Spasial adalah kemampuan seseorang untuk berpikir dalam bentuk visual dan gambar, serta untuk memahami dan memanipulasi ruang secara mental. Individu sdengan kecerdasan spasial yang tinggi biasanya memiliki kemampuan untuk melihat dan memvisualisasikan objek dari berbagai sudut, memahami hubungan antara objek-objek tersebut dalam ruang, serta mengenali pola dan detail visual. Kecerdasan ini sering ditemukan pada arsitek, seniman, desainer, dan individu yang bekerja dengan elemen visual dan ruang."
+narasi_mi_naturalis = "Kecerdasan Naturalis adalah kemampuan seseorang untuk mengenali, memahami, dan berinteraksi dengan alam dan lingkungan sekitar. Individu dengan kecerdasan ini memiliki ketertarikan yang mendalam terhadap flora, fauna, dan ekosistem, serta kemampuan untuk mengamati dan menganalisis pola-pola di alam. Mereka sering kali menunjukkan kepekaan terhadap isu-isu lingkungan dan memiliki kemampuan untuk bekerja dengan baik dalam lingkungan alam terbuka."
+narasi_mi_interpersonal = "Kecerdasan Interpersonal adalah kemampuan seseorang untuk memahami, berempati, dan berinteraksi dengan orang lain secara efektif. Individu dengan kecerdasan ini memiliki kepekaan terhadap perasaan, motivasi, dan kebutuhan orang lain. Mereka biasanya pandai dalam membangun hubungan, bekerja sama dalam kelompok, dan memahami dinamika sosial. Kecerdasan interpersonal sangat penting dalam membina hubungan yang harmonis dan dalam situasi yang memerlukan komunikasi dan kolaborasi."
+narasi_mi_intrapersonal = "Kecerdasan Intrapersonal adalah kemampuan seseorang untuk memahami diri sendiri secara mendalam, termasuk emosi, motivasi, nilai-nilai, dan kelemahan pribadi. Individu dengan kecerdasan ini cenderung memiliki kesadaran diri yang tinggi dan mampu merefleksikan pengalaman hidup mereka. Mereka pandai mengatur emosi, mengenali kebutuhan pribadi, dan membuat keputusan berdasarkan pemahaman yang baik tentang diri mereka sendiri. Kecerdasan intrapersonal sangat penting untuk pengembangan diri, kesejahteraan emosional, dan pengambilan keputusan yang bijaksana."
+narasi_mi_kinestetik = "Kecerdasan Kinestetik adalah kemampuan seseorang untuk menggunakan tubuhnya dengan terampil dan efektif dalam berbagai aktivitas fisik, seperti olahraga, tarian, kerajinan tangan, dan keterampilan manual lainnya. Individu dengan kecerdasan kinestetik cenderung memiliki koordinasi tubuh yang baik, kontrol gerakan yang presisi, dan kesadaran yang tinggi terhadap postur serta gerak tubuh mereka. Mereka belajar dengan baik melalui pengalaman langsung dan sering mengekspresikan diri melalui gerakan fisik. Kecerdasan ini sangat penting dalam berbagai bidang, termasuk seni, olahraga, dan pekerjaan yang melibatkan keterampilan tangan."
+narasi_mi_logika = "Kecerdasan Logika, juga dikenal sebagai kecerdasan logis-matematis, adalah kemampuan seseorang untuk berpikir secara logis, analitis, dan sistematis. Individu dengan kecerdasan ini cenderung unggul dalam memahami pola, menghitung angka, memecahkan masalah, dan menganalisis situasi secara rasional. Mereka menikmati tantangan intelektual seperti teka-teki, permainan strategi, dan pemecahan masalah yang membutuhkan pemikiran kritis. Kecerdasan logika sangat penting dalam bidang-bidang seperti matematika, sains, teknologi, dan pemrograman."
+
+image_mi_interpersonal = os.path.join(".", "img", "mi", "mi_interpersonal.jpg")
+image_mi_intrapersonal = os.path.join(".", "img", "mi", "mi_intrapersonal.jpg")
+image_mi_kinestetik = os.path.join(".", "img", "mi", "mi_kinesthetic.jpg")
+image_mi_logika = os.path.join(".", "img", "mi", "mi_logical.jpg")
+image_mi_musikal = os.path.join(".", "img", "mi", "mi_musical.jpg")
+image_mi_naturalis = os.path.join(".", "img", "mi", "mi_naturalist.jpg")
+image_mi_spasial = os.path.join(".", "img", "mi", "mi_spatial.jpg")
+image_mi_linguistik = os.path.join(".", "img", "mi", "mi_linguistic.jpg")
 
 modalitas_pengantar = "Modalitas belajar—visual, auditori, dan kinestetik—masing-masing memiliki keunggulan unik dalam membantu seseorang memahami dan mengingat informasi. Namun, untuk mencapai hasil belajar yang optimal, penting untuk mendayagunakan ketiga modalitas ini secara bersamaan. Menggabungkan berbagai pendekatan dapat memperkuat pemahaman dan memori, serta membuat proses belajar menjadi lebih kaya dan menyeluruh"
 
@@ -67,60 +76,119 @@ kinesthetic_pertama = "Untuk mengoptimalkan belajar, fokuslah pada kegiatan yang
 kinesthetic_kedua = "Gunakan gerakan fisik sebagai pendukung untuk memperkuat informasi yang Anda terima secara visual atau auditory. Misalnya, setelah melihat video atau diagram (visual), cobalah untuk mempraktikkan atau membuat model dari konsep tersebut."
 kinesthetic_ketiga = "Gunakan aktivitas kinestetik sebagai alat bantu tambahan untuk memperjelas konsep yang sulit. Misalnya, setelah melihat diagram (visual) atau mendengarkan penjelasan (auditory), lakukan praktik langsung atau simulasi. "
 
+nama_user = "Anastasya Rachellia"
+nama_sekolah = "SMAN 15 Surabaya"
+foto_user = os.path.join(".", "img", "gambarku.jpg")
+logo_institusi = os.path.join(".", "img", "logo-institusi.jpeg")
 
-def create_big_five_chart(data):
+
+def create_big_five_chart(data, width=CHART_WIDTH, height=CHART_HEIGHT):
+    trait_abbreviations = {
+        "Extroversion": "EXT",
+        "Agreeableness": "AGR",
+        "Openness To Experience": "OPN",
+        "Conscientiousness": "CSN",
+        "Emotional Stability": "EST"
+    }
+
     fig = go.Figure()
+
     fig.add_trace(go.Scatterpolar(
         r=list(data.values()),
-        theta=list(data.keys()),
-        fill='toself'
+        theta=[trait_abbreviations[key] for key in data.keys()],
+        fill='toself',
+        line=dict(color='rgb(158,202,225)'),
+        fillcolor='rgba(158,202,225,0.5)'
     ))
+
     fig.update_layout(
-        polar=dict(radialaxis=dict(
-            visible=True, range=[0, max(data.values())])),
+        polar=dict(
+            radialaxis=dict(
+                visible=True,
+                range=[0, max(data.values())],
+                showticklabels=False
+            ),
+            angularaxis=dict(
+                tickfont=dict(size=10)
+            )
+        ),
         showlegend=False,
-        title="Big Five Personality",
-        width=CHART_WIDTH,
-        height=CHART_HEIGHT
+        width=width,
+        height=height,
+        margin=dict(l=20, r=20, t=20, b=20),
+        paper_bgcolor='white'
+    )
+
+    return fig
+
+
+def create_learning_modality_chart(data, width=300, height=200):
+    label_map = {"Visual": "V" + "&nbsp;&nbsp;",
+                 "Auditory": "A" + "&nbsp;&nbsp;", "Kinesthetic": "K" + "&nbsp;&nbsp;"}
+    sorted_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
+
+    fig = go.Figure(go.Bar(
+        x=[item[1] for item in sorted_data],
+        y=[label_map[item[0]] for item in sorted_data],
+        text=[str(item[1]) for item in sorted_data],
+        textposition='inside',
+        textfont=dict(size=14, color='black'),
+        marker_color='rgb(158,202,225)',
+        marker_line_color='rgb(8,48,107)',
+        marker_line_width=1.5,
+        orientation='h'
+    ))
+
+    fig.update_layout(
+        width=width,
+        height=height,
+        margin=dict(l=30, r=10, t=10, b=10),
+        paper_bgcolor='white',
+        plot_bgcolor='white',
+        xaxis=dict(showticklabels=False, showline=False, zeroline=False),
+        yaxis=dict(showticklabels=True, showline=False, zeroline=False,
+                   tickmode='array', tickvals=[0, 1, 2], ticktext=['V', 'A', 'K']),
+        bargap=0.2,
+        showlegend=False
     )
     return fig
 
 
-def create_learning_modality_chart(data):
-    fig = go.Figure(go.Bar(
-        x=list(data.keys()),
-        y=list(data.values()),
-        text=list(data.values()),
-        textposition='auto'
-    ))
-    fig.update_traces(marker_color='rgb(158,202,225)', marker_line_color='rgb(8,48,107)',
-                      marker_line_width=1.5, opacity=0.6)
-    fig.update_layout(
-        title="Learning Modality Preference",
-        xaxis_title="Modality Type",
-        yaxis_title="Score",
-        width=CHART_WIDTH,
-        height=CHART_HEIGHT
-    )
-    return fig
+def create_multiple_intelligence_chart(data, width=CHART_WIDTH, height=CHART_HEIGHT):
+    sorted_data = sorted(data.items(), key=lambda x: x[1], reverse=True)
 
-
-def create_multiple_intelligence_chart(data):
     fig = go.Figure(go.Bar(
-        x=list(data.keys()),
-        y=list(data.values()),
-        text=list(data.values()),
-        textposition='auto'
+        x=[item[0] for item in sorted_data],
+        y=[item[1] for item in sorted_data],
+        text=[str(item[1]) for item in sorted_data],
+        textposition='inside',
+        textfont=dict(size=10, color='black'),
+        marker_color='rgb(158,202,225)',
+        marker_line_color='rgb(8,48,107)',
+        marker_line_width=1.5
     ))
-    fig.update_traces(marker_color='rgb(158,202,225)', marker_line_color='rgb(8,48,107)',
-                      marker_line_width=1.5, opacity=0.6)
+
     fig.update_layout(
-        title="Multiple Intelligences Scores",
-        xaxis_title="Intelligence Type",
-        yaxis_title="Score",
-        width=CHART_WIDTH,
-        height=CHART_HEIGHT
+        width=width,
+        height=height,
+        margin=dict(l=10, r=10, t=30, b=50),
+        paper_bgcolor='white',
+        plot_bgcolor='white',
+        xaxis=dict(
+            tickangle=45,
+            tickfont=dict(size=8),
+            title=None
+        ),
+        yaxis=dict(
+            showticklabels=False,
+            showgrid=False,
+            zeroline=False,
+            title=None
+        ),
+        bargap=0.2,
+        showlegend=False
     )
+
     return fig
 
 
@@ -142,35 +210,99 @@ def get_narration(trait, score):
 def get_learning_modality_text(learning_modality):
     sorted_modalities = sorted(
         learning_modality.items(), key=lambda x: x[1], reverse=True)
-    text = "<br/><br/>"
+    text = "<br/>"
+
+    # Define indentation (6 non-breaking spaces)
+    indent = "&nbsp;" * 6
 
     for i, (modality, score) in enumerate(sorted_modalities):
         if i == 0:
-            text += globals()[f"{modality.lower()}_pertama"] + "<br/>"
+            text += f"{indent}{globals()[f'{modality.lower()}_pertama']}<br/>"
         elif i == 1:
-            text += globals()[f"{modality.lower()}_kedua"] + "<br/>"
+            text += f"{indent}{globals()[f'{modality.lower()}_kedua']}<br/>"
         else:
-            text += globals()[f"{modality.lower()}_ketiga"] + "<br/>"
+            text += f"{indent}{globals()[f'{modality.lower()}_ketiga']}<br/>"
 
     return text
+
+
+def get_multiple_intelligences_content(multiple_intelligences):
+    sorted_intelligences = sorted(
+        multiple_intelligences.items(), key=lambda x: x[1], reverse=True)
+    content = []
+
+    for i, (intelligence, score) in enumerate(sorted_intelligences[:3]):
+        intel_lower = intelligence.lower()
+        narration = globals()[f"narasi_mi_{intel_lower}"]
+        image_path = globals()[f"image_mi_{intel_lower}"]
+
+        content.append({
+            'type': 'image',
+            'data': image_path,
+            'width': 2.2*cm,
+            'height': 2.2*cm
+        })
+        content.append({
+            'type': 'text',
+            'data': f"<b>{intelligence.capitalize()}:</b> {narration}"
+        })
+
+    return content
 
 
 def add_content_to_pdf(input_pdf, output_pdf, content_list):
     packet = BytesIO()
     can = canvas.Canvas(packet, pagesize=A4)
 
+    # Register fonts
+    pdfmetrics.registerFont(TTFont('Arial', 'Arial.ttf'))
+    pdfmetrics.registerFont(TTFont('Arial-Bold', 'Arial-Bold.ttf'))
+
+    # Add user name, school name, and photo
+    can.setFont("Arial-Bold", 24)
+    can.drawString(8.3*cm, A4[1] - 2.6*cm, nama_user)
+    can.setFont("Arial", 14)
+    can.drawString(8.3*cm, A4[1] - 3.8*cm, nama_sekolah)
+
+    # Add user photo with aspect ratio preservation
+    user_img = Image.open(foto_user)
+    user_img_width, user_img_height = user_img.size
+    user_img_aspect = user_img_height / user_img_width
+    user_img_pdf_width = 5*cm
+    user_img_pdf_height = user_img_pdf_width * user_img_aspect
+    can.drawImage(ImageReader(user_img), 1.5*cm,
+                  A4[1] - 6*cm, width=user_img_pdf_width, height=user_img_pdf_height)
+
+    # Add a line under the name
+    can.setStrokeColorRGB(0, 0, 0)
+    can.line(8.3*cm, A4[1] - 3*cm, 19*cm, A4[1] - 3*cm)
+
+    # Add institution logo with aspect ratio preservation
+    logo_institusi = os.path.join(".", "img", "logo-institusi.jpeg")
+    logo_img = Image.open(logo_institusi)
+    logo_img_width, logo_img_height = logo_img.size
+    logo_img_aspect = logo_img_height / logo_img_width
+    logo_img_pdf_width = 4*cm
+    logo_img_pdf_height = logo_img_pdf_width * logo_img_aspect
+    can.drawImage(ImageReader(logo_img), 1.3*cm,
+                  A4[1] - 25*cm, width=logo_img_pdf_width, height=logo_img_pdf_height)
+
     for content in content_list:
         content_type = content['type']
         x, y = content['position']
         page = content['page']
+
+        if page > can.getPageNumber():
+            can.showPage()
 
         if content_type == 'chart':
             chart = content['data']
             img_data = chart.to_image(format="png")
             img_buffer = BytesIO(img_data)
             img = Image.open(img_buffer)
-            can.drawImage(ImageReader(img), x, y,
-                          width=CHART_PDF_WIDTH, height=CHART_PDF_HEIGHT)
+            width = content.get('width', CHART_PDF_WIDTH)
+            height = content.get('height', CHART_PDF_HEIGHT)
+            can.drawImage(ImageReader(img), x, y, width=width, height=height)
 
         elif content_type == 'text':
             text_content = content['data']
@@ -178,11 +310,19 @@ def add_content_to_pdf(input_pdf, output_pdf, content_list):
             style = styles['BodyText']
             style.fontSize = 9
             p = Paragraph(text_content, style)
-            p.wrapOn(can, 11*cm, 20*cm)  # Adjust width and height as needed
+            width = content.get('width', 11*cm)
+            p.wrapOn(can, width, 20*cm)
             p.drawOn(can, x, y)
 
-        if page > can.getPageNumber():
-            can.showPage()
+        elif content_type == 'image':
+            image_path = content['data']
+            img = Image.open(image_path)
+            img_width, img_height = img.size
+            img_aspect = img_height / img_width
+            pdf_width = content.get('width', 2*cm)
+            pdf_height = pdf_width * img_aspect
+            can.drawImage(ImageReader(img), x, y,
+                          width=pdf_width, height=pdf_height)
 
     can.save()
     packet.seek(0)
@@ -193,7 +333,8 @@ def add_content_to_pdf(input_pdf, output_pdf, content_list):
 
     for i in range(len(existing_pdf.pages)):
         page = existing_pdf.pages[i]
-        page.merge_page(new_pdf.pages[i])
+        if i < len(new_pdf.pages):
+            page.merge_page(new_pdf.pages[i])
         output.add_page(page)
 
     with open(output_pdf, "wb") as outputStream:
@@ -208,7 +349,7 @@ def main():
     }
 
     learning_modality = {
-        "Visual": 49, "Auditory": 47, "Kinesthetic": 35
+        "Visual": 49, "Auditory": 87, "Kinesthetic": 15
     }
 
     multiple_intelligences = {
@@ -217,10 +358,12 @@ def main():
     }
 
     # Create charts
-    big_five_chart = create_big_five_chart(big_five_personality)
-    learning_modality_chart = create_learning_modality_chart(learning_modality)
+    big_five_chart = create_big_five_chart(
+        big_five_personality, width=300, height=300)
+    learning_modality_chart = create_learning_modality_chart(
+        learning_modality, width=300, height=200)
     multiple_intelligence_chart = create_multiple_intelligence_chart(
-        multiple_intelligences)
+        multiple_intelligences, width=400, height=300)
 
     # Create a copy of the template PDF
     input_pdf = "pdf/PPPReportTemplate.pdf"
@@ -239,19 +382,40 @@ def main():
     # Prepare Learning Modality text
     learning_modality_text = get_learning_modality_text(learning_modality)
 
+    # Get Multiple Intelligences content
+    mi_content = get_multiple_intelligences_content(multiple_intelligences)
+
     # Prepare content list
     content_list = [
         {'type': 'chart', 'data': big_five_chart, 'position': (
-            13*cm, A4[1] - 7*cm - CHART_PDF_HEIGHT), 'page': 1},
+            13*cm, A4[1] - 5*cm - CHART_PDF_HEIGHT), 'page': 1, 'width': 6*cm, 'height': 6*cm},
+
         {'type': 'text', 'data': big_five_text,
             'position': (8*cm, A4[1] - 29*cm), 'page': 1},
+
         {'type': 'chart', 'data': learning_modality_chart, 'position': (
-            1*cm, A4[1] - 3*cm - CHART_PDF_HEIGHT), 'page': 2},
-        {'type': 'text', 'data': learning_modality_text,
-            'position': (1*cm, A4[1] - 13*cm), 'page': 2},
+            11*cm, A4[1] - 7*cm), 'page': 2, 'width': 6*cm, 'height': 4.2*cm},
+
         {'type': 'chart', 'data': multiple_intelligence_chart, 'position': (
-            1*cm, A4[1] - 23*cm - CHART_PDF_HEIGHT), 'page': 2}
+            10*cm, A4[1] - 11*cm - CHART_PDF_HEIGHT), 'page': 2, 'width': 9*cm, 'height': 8*cm},
+
+        {'type': 'text', 'data': learning_modality_text,
+            'position': (2.7*cm, A4[1] - 11.7*cm), 'page': 2, 'width': 16*cm},  # Custom width for learning modality text
+
     ]
+
+    # Add Multiple Intelligences content
+    y_position = A4[1] - 22*cm
+    for i in range(0, len(mi_content), 2):
+        image_item = mi_content[i]
+        text_item = mi_content[i+1]
+
+        content_list.append(
+            {**image_item, 'position': (2*cm, y_position), 'page': 2})
+        content_list.append(
+            {**text_item, 'position': (5*cm, y_position), 'page': 2, 'width': 14*cm})
+
+        y_position -= 3*cm  # Reduced space between sets
 
     # Add content to the PDF
     add_content_to_pdf(output_pdf, output_pdf, content_list)
